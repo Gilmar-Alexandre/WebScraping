@@ -8,3 +8,4 @@ class MydomainSpider(scrapy.Spider):
 
     def parse(self, response):
         pass
+    #iniciando os estudos com o scrapy
